@@ -3,4 +3,4 @@ Uses TrinityCore
 
 --added DressNPCs
 --working on scaling hight trough scripts
---working on adding goblin race to playable races
+--added goblin race to playable races
