@@ -73,7 +73,7 @@ enum Races
     RACE_TAUREN             = 6,
     RACE_GNOME              = 7,
     RACE_TROLL              = 8,
-    //RACE_GOBLIN             = 9,
+    RACE_GOBLIN             = 9,
     RACE_BLOODELF           = 10,
     RACE_DRAENEI            = 11
     //RACE_FEL_ORC            = 12,
@@ -89,7 +89,7 @@ enum Races
 };
 
 // max+1 for player race
-#define MAX_RACES         12
+#define MAX_RACES         13
 
 #define RACEMASK_ALL_PLAYABLE \
     ((1<<(RACE_HUMAN-1))   |(1<<(RACE_ORC-1))          |(1<<(RACE_DWARF-1))   | \
